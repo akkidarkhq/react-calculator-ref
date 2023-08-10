@@ -1,0 +1,5 @@
+{
+    "livePreview.defaultPreviewPath": "/public/index.html",
+    "window.autoDetectColorScheme": true,
+    "javascript.preferGoToSourceDefinition": true
+}
